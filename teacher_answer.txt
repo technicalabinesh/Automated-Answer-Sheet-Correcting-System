@@ -1,0 +1,10 @@
+Question: Explain the process of photosynthesis.
+
+Answer:
+
+Photosynthesis is the process by which green plants prepare their own food. 
+It occurs mainly in the leaves of plants, which contain a green pigment called chlorophyll. 
+In this process, plants use sunlight, carbon dioxide from the air, and water absorbed by roots to produce glucose (food). 
+Oxygen is released as a by-product. 
+Photosynthesis occurs in two stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). 
+Overall, photosynthesis is essential because it provides food for plants and oxygen for living organisms.
